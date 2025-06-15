@@ -1,0 +1,5 @@
+# This is Simple Hello wolrd Program 
+
+#Build 
+#For building executable
+#Run:-  go build _1/main.go
